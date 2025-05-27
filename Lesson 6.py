@@ -69,7 +69,7 @@
 #     k +=1
 # print(k)
 
-n = 73512346
+n = int(input("n ="))
 s = 0
 while n > 0:
     r = n % 10
