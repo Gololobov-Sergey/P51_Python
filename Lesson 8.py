@@ -74,6 +74,6 @@
 #             print(i, "  ", j)
 
 
-import random
-
-print(random.randint(1, 60))
+# import random
+# a = random.randint(1, 60)
+# print(a)
