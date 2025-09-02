@@ -51,6 +51,6 @@ for j in range(len(list1[0])):
         s += list1[i][j]
     print(s, end =" ")
 
-list1.
+
 
 
