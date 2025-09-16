@@ -45,8 +45,8 @@
 
 st = "мама мила раму2222222 на дачі 123 рази"
 
-# st1 = st.split()
-# st1.reverse()
+st1 = st.split()
+st1.reverse()
 # print(" ".join(st1))
 # print(len(st.split()))
 # l = [4,4,4,2,4,3,4]
