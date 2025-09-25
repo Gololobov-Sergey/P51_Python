@@ -1,7 +1,7 @@
 # a = 10
 #
 # def func(a):
-#
+#     a = 99
 #     a += 100
 #     print(a)
 #     #return a

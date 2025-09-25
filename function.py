@@ -1,4 +1,4 @@
-def printLine(symbol, count, isVerical):
+def printLine(symbol = '*', count = 20, isVerical = True):
     for i in range(count):
         print(symbol, end='')
         if isVerical:
